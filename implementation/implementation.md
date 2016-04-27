@@ -1,0 +1,1 @@
+1. [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) - [doc](the-time-in-words/the-time-in-words.md)
